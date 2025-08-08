@@ -9,8 +9,6 @@ Features
 
 -A styled button that triggers a JavaScript alert when clicked.
 
--Custom golden-themed styling applied consistently across the page.
-Files
 -index.html — Contains the webpage structure and content.
 
 -styles.css — Handles all styling elements such as colors, fonts, spacing, and layout.
